@@ -1,0 +1,11 @@
+.OutsideBorderForm
+{
+    width: 1350px;
+    height: 700px;
+    display: flex;
+    justify-content: center; 
+}
+.Header
+{
+    color: red;
+}
